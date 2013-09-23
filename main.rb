@@ -1,3 +1,1 @@
-puts "kittens ARE cute!"
-
-puts "dogs are cute, too."
+"kittens ARE cute"
